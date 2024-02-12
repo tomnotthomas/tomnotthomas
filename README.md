@@ -10,7 +10,7 @@
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-🚀 **About Me:** Passionate about scalable, high-performance applications. Always eager to embrace new technologies.
+🚀 **About Me:** Passionate about scalable, high-performance applicationsm embracing new technologies.
 
 ## Personal Interests
 - 🏋️‍♂️ High-energy workouts
