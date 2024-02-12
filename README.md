@@ -11,4 +11,6 @@
 
 ---
 
+*Connect with me on* [LinkedIn](https://www.linkedin.com/in/progressivist-tom/)
+
 *Tags:* `#FullStackDeveloper` `#TechEnthusiast` `#InnovationSeeker`
