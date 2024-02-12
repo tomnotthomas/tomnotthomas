@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Tom - Full-Stack Software Developer
 
+🚀 **About Me:** Passionate about scalable, high-performance applicationsm embracing new technologies.
+
 🌐 **Skills:** <br/> <br/> 
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -10,7 +12,6 @@
 <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 
-🚀 **About Me:** Passionate about scalable, high-performance applicationsm embracing new technologies.
 
 ## Personal Interests
 - 🏋️‍♂️ High-energy workouts
