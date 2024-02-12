@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Tom - Full-Stack Software Developer
 
 🌐 **Skills:** JavaScript | Node.js | Express | MongoDB | React | Cloud Solutions
+
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt=”Expressjs” src=”https://img.shields.io/badge/Express.js-404D59?style=for-the-badge” />
+  <img alt=”Expressjs” src=”[https://img.shields.io/badge/Express.js-404D59?style=for-the-badge]” />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt=”AWS” src= ”https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white” />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
